@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Активнось</string>
+    <string name="preferences_file">com.helevern.colorist.PREFERENCES</string>
+    <string name="defaultValue">0</string>
+    <string name="burned">- сожежно колорий</string>
+    <string name="covered">- пройденная дистаниция:</string>
+    <string name="steps_description">- совершено шагов за день:</string>
+</resources>
